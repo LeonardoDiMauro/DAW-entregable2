@@ -44,6 +44,6 @@ Para **reiniciarlo** con el comando:
 - Abrimos el navegador y en la URL ponemos _**localhost**_
 - Deberiamos poder ver el index prestablecido por Apache.
 
-![imagen](index.png)
+![imagen](cap1.png)
 
 
